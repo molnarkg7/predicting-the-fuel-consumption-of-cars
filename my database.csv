@@ -1,0 +1,101 @@
+Marka I Model,Broj Cilindara,Zapremina Cilindra (cm3),Snaga (ks),Masa (kg),Ubrzanje (0-100 km/h),Godina Proizvodnje,Poreklo,Prosecna Potrosnja (l/km)
+Fiat Punto,4,1242,60,850,14.3,1999,Evropa,5.7
+Volkswagen Passat,4,1968,140,1530,9.8,2007,Evropa,5.9
+Toyota Auris,4,1329,100,1070,13.1,2006,Japan,6.2
+Audi Q7,6,2967,374,2445,6.2,2016,Evropa,4.3
+Citroen C5,4,1560,110,1506,11.6,2011,Evropa,5.3
+Alfa Romeo 159,6,3175,250,1655,6.8,2008,Evropa,11.5
+Hummer H2,8,6162,398,3017,18.7,2007,USA,20.2
+Mercedes Benz C350,6,3498,306,1610,6.1,2012,Evropa,6.9
+BMW M5,10,4999,507,1780,4.7,2005,Evropa,14.4
+RAM 1500,8,5654,395,2234,17.8,2018,USA,13.2
+Peugeot 307,4,1997,107,1279,10.9,2001,Evropa,5.2
+Renault Clio,4,1149,102,1186,11,2011,Evropa,6.7
+Toyota Yaris,4,1329,98,1025,11.7,2007,Japan,5.1
+Toyota Supra,6,2998,321,1658,4.7,1999,Japan,10.4
+Volkswagen Golf,4,1896,105,1365,11.3,2005,Evropa,5.1
+Fiat Grande Punto,4,1368,95,1115,11.4,2008,Evropa,6.1
+Honda Civic,4,1668,115,1270,10.3,2003,Japan,7.1
+Dodge Charger,6,3569,229,1824,5.2,2015,USA,12.4
+Audi A6,6,2698,180,1625,8.9,2006,Evropa,6.8
+Opel Corsa,4,1229,80,1121,13.9,2010,Evropa,5.8
+Zastava 128,4,1302,65,840,14.2,2002,Evropa,8.9
+Seat Leon,4,1390,125,1324,9.1,2011,Evropa,8.7
+Fiat Grande Punto,4,1242,65,1115,14.5,2007,Evropa,5.9
+Mazda 3,4,1560,109,1354,11.2,2010,Japan,6.5
+Dacia Logan,4,1461,75,1325,13.2,2011,Evropa,6.2
+Jeep Wrangler ,4,1995,272,1934,10.5,2021,USA,7.5
+Volkswagen Passat,4,1968,140,1530,9.8,2007,Evropa,5.9
+Fiat Punto,4,1242,60,850,14.3,1999,Evropa,5.7
+Mitsubishi Colt,4,1499,150,1345,9.6,2008,Japan,6.4
+Ford Mustang,6,2261,317,1789,6.2,2016,USA,9.8
+Hummer H2,8,6162,398,3017,18.7,2007,USA,20.2
+Mercedes Benz C350,6,3498,306,1610,6.1,2012,Evropa,6.9
+Fiat 500,4,1242,69,1254,10.2,2009,Evropa,7.6
+Aston Martin DBS,8,5935,517,1956,4.2,2008,Evropa,14.1
+Volkswagen Passat,4,1968,140,1530,9.8,2007,Evropa,5.9
+Chevrolet Corvette,8,5998,404,1983,4.1,2006,USA,12.5
+Ford Mustang,6,2965,312,1869,6.1,2007,USA,11.8
+Zastava Yugo,4,1149,54,800,13.5,2005,Evropa,10.3
+Subaru Impreza ,4,1598,94,1542,10.2,2002,Japan,12.5
+Fiat Punto,4,1242,60,850,14.3,1999,Evropa,5.7
+Opel Astra,4,1648,75,1258,12.5,2001,Evropa,5.3
+Alfa Romeo 159,4,1910,150,1655,9.4,2007,Evropa,6.1
+Suzuki SX4,4,1568,107,1365,11.4,2008,Japan,7.1
+Dacia Logan,4,1461,75,1325,13.2,2011,Evropa,6.2
+Toyota Corolla,4,1598,132,1452,1330,2009,Japan,6.5
+Honda CR-Z,4,1487,114,1756,8.2,2010,Japan,3.6
+Seat Leon,4,1390,125,1324,9.1,2011,Evropa,8.7
+BMW 320,4,1995,143,1654,8.7,2010,Evropa,6.4
+Volkswagen Passat,4,1968,140,1530,9.8,2007,Evropa,5.9
+Jeep Grand Cherokee,6,2987,218,2150,10.8,2007,USA,15.2
+Ford Mondeo,4,1560,115,1514,12.3,2014,USA,4.3
+BMW 325,6,2996,218,1853,6.8,2007,Evropa,10.5
+Toyota Auris,4,1329,100,1070,13.1,2006,Japan,6.2
+Chevrolet Corvette,8,5998,404,1983,4.1,2006,USA,12.5
+Hummer H2,8,6162,398,3017,18.7,2007,USA,20.2
+Fiat Punto,4,1242,60,850,14.3,1999,Evropa,5.7
+Volkswagen Golf,4,1896,105,1365,11.3,2005,Evropa,5.1
+Mitsubishi Outlander,4,1968,140,1896,12.5,2007,Japan,7.2
+Mazda 3,4,1560,109,1354,11.2,2010,Japan,6.5
+Pontiac Grand Ville,8,6600,260,1945,16.2,1975,USA,15.4
+Fiat Punto Evo,4,1248,75,1090,13.5,2012,Evropa,4.5
+Mitsubishi Colt,4,1499,150,1345,9.6,2008,Japan,6.4
+Toyota Auris,4,1329,100,1070,13.1,2006,Japan,6.2
+Audi Q5,6,2967,374,2445,6.2,2016,Evropa,4.3
+Seat Ibitza,3,1198,70,975,14.4,2009,Evropa,5.9
+Mitsubishi ASX,4,1798,150,1689,11.2,2012,Japan,6.8
+Chevrolet Cruze,4,1998,160,1525,10.3,2006,USA,6.2
+Jeep Wrangler ,4,1995,272,1934,10.5,2021,USA,7.5
+Renault Clio,4,1461,105,1210,11.2,2009,Evropa,4.7
+Honda Civic,4,1668,115,1270,10.3,2003,Japan,7.1
+Dodge Charger,6,3569,229,1824,5.2,2015,USA,12.4
+Honda Accord,4,1958,150,1652,9.4,2020,Japan,6.1
+Fiat 500,4,1242,69,1254,10.2,2009,Evropa,7.6
+Jeep Renegade,4,1956,140,1875,11.2,2018,USA,10.5
+Audi A4,4,1968,140,1589,9.2,2007,Evropa,5.4
+Hummer H3 ,6,3490,219,2354,17.2,2005,USA,15.1
+Honda CR-Z,4,1487,114,1756,8.2,2010,Japan,3.6
+Volkswagen Passat,4,1968,140,1530,9.8,2007,Evropa,5.9
+Toyota Yaris,4,1329,98,1025,11.7,2007,Japan,5.1
+Toyota Supra,6,2998,321,1658,4.7,1999,Japan,10.4
+Volkswagen Golf,4,1896,105,1365,11.3,2005,Evropa,5.1
+Zastava Yugo,4,1149,54,800,13.5,2005,Evropa,10.3
+Fiat Punto,4,1242,60,850,14.3,1999,Evropa,5.7
+Hummer H3 ,6,3490,219,2354,17.2,2005,USA,15.1
+Honda Accord,4,1958,150,1652,9.4,2020,Japan,6.1
+Mitsubishi ASX,4,1798,150,1689,11.2,2012,Japan,6.8
+Jeep Grand Cherokee,6,2987,218,2150,10.8,2007,USA,15.2
+Fiat Punto Evo,4,1248,75,1090,13.5,2012,Evropa,4.5
+Ford Mustang,6,2261,317,1789,6.2,2016,USA,9.8
+Renault Clio,4,1461,105,1210,11.2,2009,Evropa,4.7
+Fiat Sedici,4,1586,107,1270,12.5,2007,Evropa,6.5
+Dacia Logan,4,1461,75,1325,13.2,2011,Evropa,6.2
+RAM 1500,8,5654,395,2234,17.8,2018,USA,13.2
+Seat Leon,4,1390,125,1324,9.1,2011,Evropa,8.7
+Fiat Punto,4,1242,60,850,14.3,1999,Evropa,5.7
+Chevrolet Corvette,8,5998,404,1983,4.1,2006,USA,12.5
+Jeep Renegade,4,1956,140,1875,11.2,2018,USA,10.5
+Ford Mustang,6,2261,317,1789,6.2,2016,USA,9.8
+Seat Alhambra,4,1998,140,1722,9.3,2015,Evropa,5.8
+Opel Corsa,4,1229,80,1121,13.9,2010,Evropa,5.8
